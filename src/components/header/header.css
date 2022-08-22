@@ -87,8 +87,8 @@ header {
 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
-        margin-bottom: -8rem;
+        height: 170vh;
+        margin-bottom: -6rem;
     }
 
     .header__socials,
@@ -97,7 +97,7 @@ header {
     }
 
     .me {
-        width: 16rem;
-        height: 20rem;
+        width: 10rem;
+        height: 15rem;
     }
 }
